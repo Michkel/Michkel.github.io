@@ -110,9 +110,9 @@
 		
         $(window).load(function(){
         $(".typing").typed({
-            strings: ["I am A Student at Aalborg University.", "I Provide Freelance Consulting.", "I Live in Aalborg."],    /* You can change the home section typing text from
+            strings: ["I am A University Student","I Live In Aalborg","I Provide Freelance Consulting"],    /* You can change the home section typing text from
 	                                                                                            here and do not use "&" use "and" */
-            typeSpeed: 50
+            typeSpeed: 40
           });
          });
         
